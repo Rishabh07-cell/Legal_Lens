@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.flaskenv
+backend/instance/*.db
+
+frontend/node_modules/
+frontend/dist/
